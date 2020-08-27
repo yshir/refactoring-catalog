@@ -12,13 +12,15 @@
         "printWidth": 140,
         "tabWidth": 2,
         "useTabs": false,
-        "semi": false,
+        "semi": true,
         "singleQuote": true,
         "trailingComma": "all",
         "bracketSpacing": true,
         "arrowParens": "avoid"
       }
-    ]
+    ],
+    "no-undef": "off",
+    "no-unused-vars": "off"
   },
   "parserOptions": {
     "sourceType": "module",
